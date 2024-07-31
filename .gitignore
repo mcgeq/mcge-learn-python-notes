@@ -1,0 +1,33 @@
+mcge-vimrc/coc-data/*
+!mcge-vimrc/coc-data/ultisnips/
+mcge-vimrc/pack/mcge/start/ultisnips/tags
+
+mcge-emacs/site-lisp/config/*
+
+mcge-nushell/history.txt
+mcge-scoop/config.json
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
